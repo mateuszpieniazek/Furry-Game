@@ -1,0 +1,25 @@
+{
+  "name": "war_fro_s_21_furry_game",
+  "version": "1.0.0",
+  "description": "## Przygotowanie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuszpieniazek/WAR_FRO_S_21_Furry_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateuszpieniazek/WAR_FRO_S_21_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/mateuszpieniazek/WAR_FRO_S_21_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^3.2.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
